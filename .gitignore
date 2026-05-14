@@ -2,4 +2,3 @@ __pycache__/
 *.pyc
 training_logs/
 pretrained_model/
-reward_compare.png
