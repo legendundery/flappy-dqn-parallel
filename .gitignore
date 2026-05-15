@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 training_logs/
 pretrained_model/
+pretrained_model_1/
+training_logs_1/
+*.png
